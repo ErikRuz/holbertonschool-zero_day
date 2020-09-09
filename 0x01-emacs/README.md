@@ -1,1 +1,1 @@
-This is the answer for the project 0x01. Emacs Opening question
+This is the project that teaches you the most essential commands in Emacs
