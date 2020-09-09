@@ -1,0 +1,1 @@
+This is the answer for the project 0x01. Emacs Opening question
